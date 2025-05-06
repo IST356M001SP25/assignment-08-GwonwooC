@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gwonwoo Cha
+Sudent Email:  gcha01@syr.edu
 
 ## Instructions
 
